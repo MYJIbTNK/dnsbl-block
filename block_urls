@@ -21,7 +21,7 @@ vk.company
 auto.drom.ru
 *.drom.ru/*
 dzen.ru/video
-https://dzen.ru/video*
+dzen.ru/video*
 yastatic.net/*
 dzen.ru/news*
 dzen.ru/articles*
