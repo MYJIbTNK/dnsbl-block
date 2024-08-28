@@ -1,91 +1,207 @@
-#block-dnsbl
-api.telegram.org
-phod.ru
-gays.egorvlasov.ru
-triger-working.com
-web-telegrama.org
-serverop-parametrs.com
-firmwaresystemupdate.com
-opk-pure.com
-strafiki.ru
-clodmail.ru
-seemsurprise.com
-moscowguarante.com
-linux-tech-world.net
-linux-techworld.com
-linux-tech-world.com
-getvalerianllc.com
-bitsbfree.com
-licensecheckout.net
-win32sofit.com
-microsoftsupertech.com
-microsofttechinfo.com
-autotimesvc.com
-msk-gov.com
-samssmgr.com
-versusmain.com
-savebrowsing.net
-statusgeotrust.com
-contileservices.net
-tapiservicemgr.com
-microsoftdownloaderonline.com
-microsoftdownloadonline.com
-microsoftdownloader.com
-cortanaupdater.net
-cortanaupdater.com
-checkerserviceonline.net
-checkerserviceonline.com
-softsandtools.com
-sensauto.info
-softdownloaderonline.net
-softdownloaderonline.com
-uploadingonline.com
-uploadeonline.com
-uploaderonline.com
-webupdateronline.net
-webupdateronline.com
-winuptodate.com
-winupdateonline.com
-winupdateronline.com
-webengincs.com
-exactsynchtime.ru
-licensecheckout.com
-servicehost-update.net
-passportyandex.net
-anydleslk-download.com
-bluestacks-install.com
-install-anydesk.com
-install-anydeslk.com
-install-zoom.com
-installer-zoom.com
-noteepad.hasankahrimanoglu.com.tr
-zoom-meetings-download.com
-zoom-meetings-install.com
-zoomus-install.com
-zoomvideo-isntall.com
-zoom-video-install.com
-iplis.ru
-vlasta-s.ru
-poopy.aarkhipov.ru
-saitraif.ru
-vip22gr.ru
-fb0bf2b1.shop
-2a0cfd0c.shop
-avptp.com
-wsdjcvfv.com
-0bitcoins.com
-oneboxlive.com
-backconnect.org
-netstaticpoints.com
-techcname.com
-get.upd-rkn.net
-mtp.upd-rkn.net
-bot.upd-rkn.net
-pkg.collect.net.in
-lib.rpm-bin.link
-chifa.rpm-bin.link
-eu-debian.com
-stoloto.ai
-lib.rpm-bin.link
-01yakutsk.ru
-1stcloth.ru
+0.0.0.0	api.telegram.org
+0.0.0.0	phod.ru
+0.0.0.0	gays.egorvlasov.ru
+0.0.0.0	triger-working.com
+0.0.0.0	web-telegrama.org
+0.0.0.0	serverop-parametrs.com
+0.0.0.0	firmwaresystemupdate.com
+0.0.0.0	opk-pure.com
+0.0.0.0	strafiki.ru
+0.0.0.0	clodmail.ru
+0.0.0.0	seemsurprise.com
+0.0.0.0	moscowguarante.com
+0.0.0.0	linux-tech-world.net
+0.0.0.0	linux-techworld.com
+0.0.0.0	linux-tech-world.com
+0.0.0.0	getvalerianllc.com
+0.0.0.0	bitsbfree.com
+0.0.0.0	licensecheckout.net
+0.0.0.0	win32sofit.com
+0.0.0.0	microsoftsupertech.com
+0.0.0.0	microsofttechinfo.com
+0.0.0.0	autotimesvc.com
+0.0.0.0	msk-gov.com
+0.0.0.0	samssmgr.com
+0.0.0.0	versusmain.com
+0.0.0.0	savebrowsing.net
+0.0.0.0	statusgeotrust.com
+0.0.0.0	contileservices.net
+0.0.0.0	tapiservicemgr.com
+0.0.0.0	microsoftdownloaderonline.com
+0.0.0.0	microsoftdownloadonline.com
+0.0.0.0	microsoftdownloader.com
+0.0.0.0	cortanaupdater.net
+0.0.0.0	cortanaupdater.com
+0.0.0.0	checkerserviceonline.net
+0.0.0.0	checkerserviceonline.com
+0.0.0.0	softsandtools.com
+0.0.0.0	sensauto.info
+0.0.0.0	softdownloaderonline.net
+0.0.0.0	softdownloaderonline.com
+0.0.0.0	uploadingonline.com
+0.0.0.0	uploadeonline.com
+0.0.0.0	uploaderonline.com
+0.0.0.0	webupdateronline.net
+0.0.0.0	webupdateronline.com
+0.0.0.0	winuptodate.com
+0.0.0.0	winupdateonline.com
+0.0.0.0	winupdateronline.com
+0.0.0.0	webengincs.com
+0.0.0.0	exactsynchtime.ru
+0.0.0.0	licensecheckout.com
+0.0.0.0	servicehost-update.net
+0.0.0.0	passportyandex.net
+0.0.0.0	anydleslk-download.com
+0.0.0.0	bluestacks-install.com
+0.0.0.0	install-anydesk.com
+0.0.0.0	install-anydeslk.com
+0.0.0.0	install-zoom.com
+0.0.0.0	installer-zoom.com
+0.0.0.0	noteepad.hasankahrimanoglu.com.tr
+0.0.0.0	zoom-meetings-download.com
+0.0.0.0	zoom-meetings-install.com
+0.0.0.0	zoomus-install.com
+0.0.0.0	zoomvideo-isntall.com
+0.0.0.0	zoom-video-install.com
+0.0.0.0	iplis.ru
+0.0.0.0	vlasta-s.ru
+0.0.0.0	poopy.aarkhipov.ru
+0.0.0.0	saitraif.ru
+0.0.0.0	vip22gr.ru
+0.0.0.0	fb0bf2b1.shop
+0.0.0.0	2a0cfd0c.shop
+0.0.0.0	avptp.com
+0.0.0.0	wsdjcvfv.com
+0.0.0.0	0bitcoins.com
+0.0.0.0	oneboxlive.com
+0.0.0.0	backconnect.org
+0.0.0.0	netstaticpoints.com
+0.0.0.0	techcname.com
+0.0.0.0	get.upd-rkn.net
+0.0.0.0	mtp.upd-rkn.net
+0.0.0.0	bot.upd-rkn.net
+0.0.0.0	pkg.collect.net.in
+0.0.0.0	lib.rpm-bin.link
+0.0.0.0	chifa.rpm-bin.link
+0.0.0.0	eu-debian.com
+0.0.0.0	stoloto.ai
+0.0.0.0	lib.rpm-bin.link
+0.0.0.0	01yakutsk.ru
+0.0.0.0	1stcloth.ru
+0.0.0.0	bitbucket.org
+0.0.0.0	bitbucket.org/hgdfhdfgd/test/downloads/new_image.jpg?14441723
+0.0.0.0	updatingservices.net
+0.0.0.0	updatingservices.net/authorization
+0.0.0.0	updatingservices.net/stats
+0.0.0.0	1stcloth.ru
+0.0.0.0	astra-cold.ru
+0.0.0.0	yandex.cloud-file.site
+0.0.0.0	mail.change-pass.info
+0.0.0.0	mail-ru.change-pass.info
+0.0.0.0	ya-ru.change-pass.info
+0.0.0.0	mail.cloud-file.site
+0.0.0.0	localtonet.com
+0.0.0.0	localto.net
+0.0.0.0	easylink.lol
+0.0.0.0	linuxpythonupdate.com
+0.0.0.0	upd-rkn.net
+0.0.0.0	*.upd-rkn.net
+0.0.0.0	popslunderflake.top
+0.0.0.0	stoloto.ai
+0.0.0.0	winkb0172.com
+0.0.0.0	lib.rpm-bin.link
+0.0.0.0	infousa.xyz
+0.0.0.0	getanaccess.net
+0.0.0.0	eu-debian.com
+0.0.0.0	download-attachment.xyz
+0.0.0.0	420021.com
+0.0.0.0	wsusa.xyz
+0.0.0.0	knlrgb.com
+0.0.0.0	deadork.com
+0.0.0.0	avptp.com
+0.0.0.0	updateld.xyz
+0.0.0.0	msngrt.com
+0.0.0.0	mirror-update.org
+0.0.0.0	saakashvili.com.ua
+0.0.0.0	linuxupdate.clive
+0.0.0.0	techcname.com
+0.0.0.0	fsbkal.com
+0.0.0.0	onepostlive.com
+0.0.0.0	change-pass.com
+0.0.0.0	koh.fsbkal.com
+0.0.0.0	cloud-attachment.info
+0.0.0.0	f.change-pass.com
+0.0.0.0	mail-ru.change-pass.com
+0.0.0.0	mail.cloud-attachment.info
+0.0.0.0	yandex.cloud-attachment.info
+0.0.0.0	roundcubemarketing.com
+0.0.0.0	itsfreerepublic.com
+0.0.0.0	ukr-net.website
+0.0.0.0	analytics.electroneek.ru
+0.0.0.0	ticketsbrand.com
+0.0.0.0	m.orherliveupdate.com
+0.0.0.0	connect.otherliveupdate.com
+0.0.0.0	otherliveupdate.com
+0.0.0.0	kavupdate.com
+0.0.0.0	ru-cloud.info
+0.0.0.0	ptnau.com
+0.0.0.0	logilokforce.com
+0.0.0.0	*.dnssign.xyz
+0.0.0.0	dnssign.xyz
+0.0.0.0	onexboxlive.com
+0.0.0.0	*.net.anydesk.com
+0.0.0.0	net.anydesk.com
+0.0.0.0	anydesk.com
+0.0.0.0	*.ngrok.io
+0.0.0.0	ngrok.io
+0.0.0.0	altaskifer.sbs
+0.0.0.0	altaskifer.sbs/pws2/fre.php
+0.0.0.0	teamviewer.org
+0.0.0.0	teamviewer.ru
+0.0.0.0	teamviewer.net
+0.0.0.0	sensor.fun
+0.0.0.0	urler.site
+0.0.0.0	localzilla.fun
+0.0.0.0	winmetrica.info
+0.0.0.0	detectis.ru
+0.0.0.0	detectis.ru/down/driver.exe
+0.0.0.0	hostingforme.nl
+0.0.0.0	hostingforme.nl/down/pas.rar
+0.0.0.0	hostingforme.nl/down/MPK.rar
+0.0.0.0	hostingforme.nl/down/keys.rar
+0.0.0.0	api.yandex-disk.info
+0.0.0.0	dev.sauselid.ru
+0.0.0.0	api.wildberreis.ru
+0.0.0.0	updateosd.ru
+0.0.0.0	linualsut.ru
+0.0.0.0	cabinet-yandex.info
+0.0.0.0	supportsecure.ru
+0.0.0.0	jaudyoyh.ru
+0.0.0.0	cabinet-company.info
+0.0.0.0	updatens.ru
+0.0.0.0	lanodesrl.ru
+0.0.0.0	login-verify.support
+0.0.0.0	updatesioa.ru
+0.0.0.0	austermis.ru
+0.0.0.0	updatecanonical.ru
+0.0.0.0	archivubuntu.ru
+0.0.0.0	kutruolu.ru
+0.0.0.0	update54.ru
+0.0.0.0	officesync.ru
+0.0.0.0	sdufho.ru
+0.0.0.0	ugroteches.ru
+0.0.0.0	syncpulse.ru
+0.0.0.0	sauselid.ru
+0.0.0.0	wheelprom.ru
+0.0.0.0	mastersync.ru
+0.0.0.0	olhostingupd.ru
+0.0.0.0	supportsecurity.ru
+0.0.0.0	rawgithubcontent.ru
+0.0.0.0	updourlan.ru
+0.0.0.0	airgrupdate.ru
+0.0.0.0	updateapi.ru
+0.0.0.0	launchprom.ru
+0.0.0.0	modultaip.ru
+0.0.0.0	modultaip.ru/panel/uploads/Qtrndzseibjc.mp4
+0.0.0.0	modultaip.ru/panel/uploads/Iutrjbfdy.wav
+0.0.0.0	fstek.ru
